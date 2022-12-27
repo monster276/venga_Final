@@ -1,0 +1,117 @@
+.login{
+    position: relative;
+    height: 500px;
+}
+.loginContent{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    height: 300px;
+    width: 400px;
+    border: 1px solid green;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: -1px 11px 24px -11px rgba(0, 0, 0, 0.2);
+}
+.register{
+    position: relative;
+    height: 800px;
+    
+}
+.registerContent{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    height: 400px;
+    width: 400px;
+    border: 1px solid green;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: -1px 11px 24px -11px rgba(0, 0, 0, 0.2);
+    padding-bottom: 20px;
+}
+.info{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+    margin-top: 40px;
+}
+.input{
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-left: 5px;
+    border: 1px solid rgb(0,173,96);
+    border-radius: 5px;
+}
+.input::placeholder{
+    font-size: 13px;
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+.btn{
+    margin-right: 20px;
+    height: 35px;
+    width: 60px;
+    background-color: rgb(0,173,96);
+    border-radius: 5px;
+    
+    
+}
+.btn:hover{
+    cursor: pointer;
+}
+.gr-button{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.inforgs{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+    margin-top: 40px;
+}
+.inputrgs{
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding-left: 5px;
+    border: 1px solid rgb(0,173,96);
+    border-radius: 5px;
+    font-size: 12px;
+}
+.inputrgs::placeholder{
+    font-size: 13px;
+}
+h2{
+   
+    font-size: 20px;
+   
+}
+.btnrgs{
+    margin-right: 20px;
+    height: 35px;
+    width: 60px;
+    background-color: rgb(0,173,96);
+    border-radius: 5px;
+    
+}
+.btnrgs:hover{
+    cursor: pointer;
+}
+.gr-buttonrgs{
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.inforgsmk{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+    margin-top: 20px;
+}

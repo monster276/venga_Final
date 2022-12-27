@@ -1,0 +1,37 @@
+footer{
+    background-color:rgb(0,173,96);
+    padding: 50px 0;
+    color: white;
+    height: 300px;
+}
+footer h1{
+    margin-bottom: 30px;
+    color: red;
+    font-weight: 500;
+    font-style: italic;
+}
+footer img{
+    background-color: rgb(0,173,96);
+     padding: 15px 20px;
+     border-radius: 5px;
+}
+footer .img i{
+    font-size: 20px;
+    margin: 5px;
+}
+footer .img span{
+    margin-top: 5px;
+}
+footer p{
+    font-size: 14px;
+    font-weight: 300;
+    
+    margin-bottom: 20px;
+}
+footer h2{
+    margin-bottom: 20px;
+}
+footer li{
+    margin-bottom: 10px;
+    
+}
